@@ -2,7 +2,6 @@
  * headers.h: Managing HTTP headers and cookies
  * Copyright (C) 2016 Alejandro Martin <alejandro.martin@fon.com>
  * Copyright (C) 2011 Steven Barth <steven@midlink.org>
- * Copyright (C) 2011 John Crispin <blogic@openwrt.org>
  *
  * This library is free software; you can redistribute it and/or modify it
  * under the terms of the GNU Lesser General Public License as published
